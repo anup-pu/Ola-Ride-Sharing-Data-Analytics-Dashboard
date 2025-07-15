@@ -38,16 +38,16 @@ To analyze large-scale ride-sharing data and provide actionable insights through
 ### 1. Dashboard Overview  
 ![Dashboard Overview](screenshots/1.png)
 
-### 2. Trip Details  
+### 2. Vehicle Type  
 ![Trip Details](screenshots/2.png)
 
 ### 3. Revenue Trend  
 ![Revenue Trend](screenshots/3.png)
 
-### 4. City-wise Breakdown  
+### 4. Cancellation  
 ![City-wise Breakdown](screenshots/4.png)
 
-### 5. Filter View Example  
+### 5. Ratings  
 ![Filter View](screenshots/5.png)
 
 ---
